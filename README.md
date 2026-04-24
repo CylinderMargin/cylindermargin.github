@@ -29,9 +29,16 @@ biomedical assessment, with 92 clinical signals and a three-layer CCI algorithm.
 
 ## Institutional Network
 
-- **EOIT** — European Organization of Integrative Therapists
-- **OBTI** — Organização Brasileira de Terapeutas Integrativos
+- ## Institutional Network
 
+- **WOIT** — World Organization of Integrative Therapists *(Global governance)*
+- **EOIT** — European Organization of Integrative Therapists *(Europe)*
+- **NAOIT** — North American Organization of Integrative Therapists *(North America)*
+- **SAOIT** — South American Organization of Integrative Therapists *(South America)*
+- **OBTI** — Organização Brasileira de Terapeutas Integrativos *(Brazil)*
+- **IOIT** — Indian Organization of Integrative Therapists *(India)*
+
+*Global federation under WOIT governance — domain network active across 6 continents.*
 ---
 
 ## Contact
