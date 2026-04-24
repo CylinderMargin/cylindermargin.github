@@ -27,8 +27,6 @@ biomedical assessment, with 92 clinical signals and a three-layer CCI algorithm.
 
 ---
 
-## Institutional Network
-
 - ## Institutional Network
 
 - **WOIT** — World Organization of Integrative Therapists *(Global governance)*
@@ -38,7 +36,8 @@ biomedical assessment, with 92 clinical signals and a three-layer CCI algorithm.
 - **OBTI** — Organização Brasileira de Terapeutas Integrativos *(Brazil)*
 - **IOIT** — Indian Organization of Integrative Therapists *(India)*
 
-*Global federation under WOIT governance — domain network active across 6 continents.*
+*Global federation under WOIT governance — 
+domain infrastructure established across 6 continents.*
 ---
 
 ## Contact
